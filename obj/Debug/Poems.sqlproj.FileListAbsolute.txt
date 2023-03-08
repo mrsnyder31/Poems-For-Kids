@@ -1,0 +1,6 @@
+C:\Users\mrsny\source\repos\Poems\bin\Debug\Poems.dacpac
+C:\Users\mrsny\source\repos\Poems\bin\Debug\Poems.dll
+C:\Users\mrsny\source\repos\Poems\bin\Debug\Poems.pdb
+C:\Users\mrsny\source\repos\Poems\obj\Debug\Poems.sqlproj.AssemblyReference.cache
+C:\Users\mrsny\source\repos\Poems\obj\Debug\Poems.dll
+C:\Users\mrsny\source\repos\Poems\obj\Debug\Poems.pdb
